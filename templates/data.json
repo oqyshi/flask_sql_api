@@ -1,0 +1,22 @@
+{
+  "members": [
+    {
+      "name": "Ray",
+      "surname": "Richy",
+      "photo": "1.jpg",
+      "jobs": "инженер-исследователь, пилот"
+    },
+    {
+      "name": "Baskin",
+      "surname": "Robinson",
+      "photo": "2.jpg",
+      "jobs": "строитель, экзобиолог"
+    },
+    {
+      "name": "Lay",
+      "surname": "Pete",
+      "photo": "3.jpeg",
+      "jobs": "климатолог, специалист по радиационной защите"
+    }
+  ]
+}
